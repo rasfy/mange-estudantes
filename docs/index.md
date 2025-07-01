@@ -12,5 +12,6 @@ codigo-de-conduta.md
 parnamirim/informatica-para-internet/index.md
 parnamirim/redes-de-computadores/index.md
 parnamirim/sistemas-para-internet/index.md
+parnamirim/mecatronica/index.md
 ```
 
